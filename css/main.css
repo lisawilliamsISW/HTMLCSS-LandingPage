@@ -192,8 +192,7 @@ section{
     background-image: url(../img/hero.jpg);
     height: 400px;
     background-size: cover;
-    background-position-x: center;
-    background-position-y: center;
+    background-position: center center;
     text-transform: uppercase;
 }
 
